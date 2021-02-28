@@ -15,7 +15,7 @@ We participated at the university's virtual hub.
 
 ## Technologies used
 
-We wrote again the solution in [F#](https://fsharp.org), a functional-first programming language [designed to encourage clean and correct code](http://fpbridge.co.uk).
+For the third time, we wrote the solution in [F#](https://fsharp.org), a functional-first programming language [designed for clean and correct code](http://fpbridge.co.uk).
 
 ## Score
 
