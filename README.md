@@ -19,7 +19,7 @@ For the third time, we wrote the solution in [F#](https://fsharp.org), a functio
 
 ## Score
 
-The team's final score was __26,180,100 points__. Specifically, we placed:
+The team's final score was __9,507,966 points__. Specifically, we placed:
 
 * __1st__ out of 5 submissions in our hub.
 * __7th__ out of 109 in Greece.
